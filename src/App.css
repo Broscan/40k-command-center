@@ -45,3 +45,7 @@ body {
   bottom: -4px;
   z-index: -1;
 }
+
+.inputs {
+  margin-top: 20px;
+}

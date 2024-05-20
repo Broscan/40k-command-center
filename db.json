@@ -23,6 +23,13 @@
       "count": 5,
       "description": "A heavy support unit equipped with heavy weapons.",
       "deployed": false
+    },
+    {
+      "id": "a5fb",
+      "name": "HellBombers",
+      "description": "they kill bugs",
+      "type": "Inquisitors",
+      "count": "20"
     }
   ]
 }
