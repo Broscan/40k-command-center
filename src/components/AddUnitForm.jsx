@@ -50,7 +50,7 @@ function AddUnitForm() {
         />
         <input
           type="text"
-          placeholder="description"
+          placeholder="Description"
           onChange={handleDescriptionChange}
           value={description}
         />

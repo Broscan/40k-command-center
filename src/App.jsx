@@ -6,7 +6,6 @@ function App() {
   return (
     <>
       <UnitList />
-
       <div className="inputs">
         <AddUnitForm />
       </div>
